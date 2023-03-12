@@ -1,0 +1,1 @@
+-- The project will have two input field and users can put their input there. based on their giving input they will be able to perform some math metical operation like addition, subtraction, multiplication, division and modulo and after performing an operation, that operation will go to the history section. moreover users will be able to restore their history --     
